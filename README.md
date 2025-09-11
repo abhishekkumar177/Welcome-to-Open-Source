@@ -5494,12 +5494,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             <td align="center">
                 <a href="https://github.com/abhishekkumar177">
                     <img src="https://avatars.githubusercontent.com/u/169741083?v=4" width="100px;"
-                        alt="Syed Shuaib" />
+                        alt="Abhishek Kumar" />
                     <br />
                     <sub>
                         <b>Abhishek Kumar</b>
                     </sub>
                 </a>
-            </td> 
+            </td>
     </tbody>
 </table>
